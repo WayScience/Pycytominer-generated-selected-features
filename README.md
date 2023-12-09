@@ -1,2 +1,2 @@
-# Pycytominer-generated-selected-features
+# Pycytominer-selected-features
 Repository containing selected morphology features from a dataset. 
